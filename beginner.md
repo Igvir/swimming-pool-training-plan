@@ -2,7 +2,7 @@
 Swimming pool routine for beginners 
 
 ## Beginner base plan
----
+
 ### Warm up:
 
 - 2 x 50m swim freestyle (front crawl) – 30 seconds rest (after each round)
