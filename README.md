@@ -1,5 +1,5 @@
 # Swimming Pool Training Plan
-A 3 levels, Beginners, Intermediate and advanced training plan
+A basic multi-level plan including Beginners, Intermediate, and Advanced training routines.
 
 - [Swimming pool training plan: Beginner](beginner.md)
 - [Swimming pool training plan: Intermediate](intermediate.md)
