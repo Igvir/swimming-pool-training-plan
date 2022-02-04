@@ -15,6 +15,7 @@ Rest 1-2 minutes
 
 - 1 x 50m swim freestyle steady pace – 30 seconds rest
 - 1 x 25m swim freestyle fast pace – 45 seconds rest.
+
 (Repeat this set 3 times)
 
 Rest 1-2 minutes
