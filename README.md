@@ -3,4 +3,4 @@ A basic multi-level plan including Beginners, Intermediate, and Advanced trainin
 
 - [Swimming pool training plan: Beginner](beginner.md)
 - [Swimming pool training plan: Intermediate](intermediate.md)
-- Swimming pool training plan: Advanced (coming soon)
+- [Swimming pool training plan: Advanced](advanced.md)
